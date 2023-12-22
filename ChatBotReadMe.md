@@ -1,6 +1,6 @@
 # ChatBot Repository
 
-![CHATBOT.png](CHATBOT.png)
+![CHATBOT.png](C:\Users\MSI\Desktop\CHATBOT.png)
 
 
 
